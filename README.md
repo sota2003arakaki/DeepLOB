@@ -9,7 +9,7 @@ git init
 git clone https://github.com/sota2003arakaki/DeepLOB.git
 ```
 ```
-cd MydeepLOB
+cd DeepLOB
 ```
 ```
 git clone https://github.com/simaki/fi2010.git
