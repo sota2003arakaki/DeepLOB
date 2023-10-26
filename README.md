@@ -6,7 +6,7 @@ STEP 以下のコマンドを上から順番に実行する
 git init
 ```
 ```
-git clone https://github.com/c0b21009/MyDeepLOB.git 
+git clone https://github.com/sota2003arakaki/DeepLOB.git
 ```
 ```
 cd MydeepLOB
